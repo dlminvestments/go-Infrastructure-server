@@ -1,0 +1,2 @@
+- name: Codecov Action
+  uses: Atrox/codecov-action@v0.1.3
