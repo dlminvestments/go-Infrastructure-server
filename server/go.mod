@@ -21,7 +21,7 @@ main
 	github.com/envoyproxy/protoc-gen-validate v1.0.0
 	github.com/golang/protobuf v1.5.3
 	github.com/google/go-cmp v0.5.9
-	github.com/prometheus/client_model v0.3.0
+	github.com/prometheus/client_model v0.4.0
 	github.com/stretchr/testify v1.8.2
 	go.mongodb.org/mongo-driver v1.11.6
 renovate/go.opentelemetry.io-proto-otlp-0.x
