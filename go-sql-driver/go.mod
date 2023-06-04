@@ -7,16 +7,16 @@ require (
 renovate/github.com-envoyproxy-envoy-1.x
 renovate/github.com-osrg-gobgp-2.x
         github.com/envoyproxy/envoy v1.26.1
-        github.com/osrg/gobgp/v3 v3.14.0
+        github.com/osrg/gobgp/v3 v3.15.0
 =======
         github.com/envoyproxy/envoy v1.26.1
-        github.com/osrg/gobgp/v3 v3.14.0
+        github.com/osrg/gobgp/v3 v3.15.0
 =======
         github.com/envoyproxy/envoy v1.26.1
-        github.com/osrg/gobgp/v3 v3.14.0
+        github.com/osrg/gobgp/v3 v3.15.0
 =======
         github.com/envoyproxy/envoy v1.26.1
-        github.com/osrg/gobgp/v3 v3.14.0
+        github.com/osrg/gobgp/v3 v3.15.0
 main
 main
 )
