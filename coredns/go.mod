@@ -41,7 +41,7 @@ main
 	github.com/prometheus/client_model v0.5.0
 	github.com/prometheus/common v0.45.0
 	github.com/stretchr/objx v0.2.0 // indirect
-	go.etcd.io/etcd/api/v3 v3.5.9
+	go.etcd.io/etcd/api/v3 v3.5.10
 	go.etcd.io/etcd/client/v3 v3.5.9
 	golang.org/x/crypto ceb1ce70b4fa
 	golang.org/x/sys 0c823b97ae02
