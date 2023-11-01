@@ -80,6 +80,6 @@ renovate/kubernetes-go
 main
 main
 	k8s.io/client-go/v11/v12 v12.0.0
-	k8s.io/klog/v2 v2.100.1
+	k8s.io/klog/v2 v2.110.1
 )
 
