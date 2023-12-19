@@ -47,16 +47,16 @@ main
 	golang.org/x/sys 0c823b97ae02
 renovate/google.golang.org-api-0.x
 renovate/google.golang.org-grpc-1.x
-	google.golang.org/api v0.153.0
+	google.golang.org/api v0.154.0
 	google.golang.org/grpc v1.60.1
 =======
-	google.golang.org/api v0.153.0
+	google.golang.org/api v0.154.0
 	google.golang.org/grpc v1.60.1
 =======
-	google.golang.org/api v0.153.0
+	google.golang.org/api v0.154.0
 	google.golang.org/grpc v1.60.1
 =======
-	google.golang.org/api v0.153.0
+	google.golang.org/api v0.154.0
 	google.golang.org/grpc v1.60.1
 main
 main
