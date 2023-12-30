@@ -1,9 +1,9 @@
 # GRPC Python setup requirements
 renovate/cython-0.x
-coverage==7.3.4
+coverage==7.4.0
 cython==3.0.7
 =======
-coverage==7.3.4
+coverage==7.4.0
 cython==3.0.7
 main
 protobuf==4.25.1
