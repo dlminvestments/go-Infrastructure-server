@@ -10,13 +10,13 @@ renovate/github.com-envoyproxy-envoy-1.x
 	github.com/osrg/gobgp/v3 v3.21.0
 renovate/github.com-envoyproxy-envoy-1.x
 	github.com/envoyproxy/envoy v1.28.0
-	github.com/envoyproxy/go-control-plane v0.11.1
+	github.com/envoyproxy/go-control-plane v0.12.0
 =======
 =======
 	github.com/osrg/gobgp/v3 v3.21.0
 main
 	github.com/envoyproxy/envoy v1.28.0
-	github.com/envoyproxy/go-control-plane v0.11.1
+	github.com/envoyproxy/go-control-plane v0.12.0
 main
 	github.com/envoyproxy/protoc-gen-validate v1.0.2
 	github.com/golang/protobuf v1.5.3
