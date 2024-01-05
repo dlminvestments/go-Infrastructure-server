@@ -47,28 +47,28 @@ main
 renovate/google.golang.org-api-0.x
 renovate/google.golang.org-api-0.x
 renovate/github.com-grpc-ecosystem-grpc-gateway-v2-2.x
-	google.golang.org/api v0.154.0
+	google.golang.org/api v0.155.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.19.0
 =======
-	google.golang.org/api v0.154.0
+	google.golang.org/api v0.155.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.19.0
 =======
-	google.golang.org/api v0.154.0
+	google.golang.org/api v0.155.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.19.0
 =======
-	google.golang.org/api v0.154.0
+	google.golang.org/api v0.155.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.19.0
 =======
-	google.golang.org/api v0.154.0
+	google.golang.org/api v0.155.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.19.0
 =======
-	google.golang.org/api v0.154.0
+	google.golang.org/api v0.155.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.19.0
 =======
-	google.golang.org/api v0.154.0
+	google.golang.org/api v0.155.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.19.0
 =======
-	google.golang.org/api v0.154.0
+	google.golang.org/api v0.155.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.19.0
  main
 main
