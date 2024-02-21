@@ -38,7 +38,7 @@ main
 	github.com/oschwald/geoip2-golang v1.9.0
 	github.com/philhofer/fwd v1.1.1 // indirect
 	github.com/prometheus/client_golang v1.18.0
-	github.com/prometheus/client_model v0.5.0
+	github.com/prometheus/client_model v0.6.0
 	github.com/prometheus/common v0.47.0
 	github.com/stretchr/objx v0.2.0 // indirect
 	go.etcd.io/etcd/api/v3 v3.5.12
