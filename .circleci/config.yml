@@ -29,7 +29,7 @@ workflows:
 build:
      working_directory: ~/repo
      docker:
-       - image: cimg/go:1.22.0
+       - image: cimg/go:1.22.1
      steps:
        - checkout
        - restore_cache:
