@@ -16,4 +16,4 @@ idna==3.7
 googleapis-common-protos==1.63.0
 gevent==23.9.1
 zope.event==4.5.0
-setuptools==65.5.1
+setuptools==65.7.0
