@@ -2,7 +2,7 @@
 coverage==7.5.3
 cython==0.29.37
 enum34==1.1.10
-protobuf>=3.5.0.post1, < 4.0dev
+protobuf>=5.27.1, <5.28
 six==1.16.0
 wheel==0.43.0
 futures==3.4.0
