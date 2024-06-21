@@ -22,8 +22,8 @@ require (
 	go.etcd.io/bbolt v1.3.10
 	go.etcd.io/etcd/api/v3 v3.5.14
 	go.etcd.io/etcd/client/pkg/v3 v3.5.14
-	go.etcd.io/etcd/client/v3 v3.5.13
-	go.etcd.io/etcd/client/v3 v3.5.13
+	go.etcd.io/etcd/client/v3 v3.5.14
+	go.etcd.io/etcd/client/v3 v3.5.14
 	go.etcd.io/etcd/etcdctl/v3 v3.5.14
 	go.etcd.io/etcd/etcdutl/v3 v3.5.13
 	go.etcd.io/etcd/pkg/v3 v3.5.14
