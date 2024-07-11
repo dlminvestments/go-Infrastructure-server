@@ -1,5 +1,5 @@
 # GRPC Python setup requirements
-coverage==7.5.3
+coverage==7.6.0
 cython==3.0.10
 enum34==1.1.10
 protobuf>=5.27.1, <5.28
