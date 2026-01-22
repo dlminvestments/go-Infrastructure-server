@@ -4,7 +4,7 @@ cython==3.0.10
 enum34==1.1.10
 protobuf>=5.27.1, <5.28
 six==1.16.0
-wheel==0.43.0
+wheel==0.46.2
 futures==3.4.0
 google-auth==2.32.0
 oauth2client==4.1.3
