@@ -1,6 +1,6 @@
 # GRPC Python setup requirements
 coverage==7.6.0
-cython==3.0.10
+cython==3.3.0
 enum34==1.1.10
 protobuf>=5.27.1, <5.28
 six==1.16.0
