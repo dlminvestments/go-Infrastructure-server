@@ -1,10 +1,10 @@
 # GRPC Python setup requirements
 renovate/cython-0.x
 coverage==7.6.0
-cython==3.0.10
+cython==3.3.0
 =======
 coverage==7.6.0
-cython==3.0.10
+cython==3.3.0
 main
 protobuf==5.27.2
 six==1.16.0
